@@ -1,0 +1,61 @@
+===============================================================================
+ AVISOS DE TERCEIROS / THIRD-PARTY NOTICES
+ Editor de Texto - Teksys Eletronica
+===============================================================================
+
+Este software e distribuido gratuitamente e utiliza componentes de software
+livre (open source) de terceiros, listados abaixo com suas respectivas
+licencas. Todos os componentes possuem licencas permissivas (MIT), que
+permitem distribuicao livre, inclusive comercial, desde que mantidos os
+avisos de copyright e os textos de licenca a seguir.
+
+Nenhum componente deste aplicativo exige a abertura do codigo-fonte do
+aplicativo (nao ha licencas GPL, LGPL ou AGPL).
+
+-------------------------------------------------------------------------------
+ RESUMO DOS COMPONENTES
+-------------------------------------------------------------------------------
+
+  Componente                                    Versao    Licenca
+  --------------------------------------------  --------  ---------
+  CommunityToolkit.Mvvm                         8.4.0     MIT
+  Microsoft.Extensions.DependencyInjection      8.0.1     MIT
+  Microsoft .NET 8 Runtime / WPF                8.0       MIT
+
+(Os componentes usados apenas para testes internos - Microsoft.NET.Test.Sdk,
+xunit e xunit.runner.visualstudio - nao sao distribuidos com este aplicativo
+e por isso nao constam aqui.)
+
+===============================================================================
+ 1. CommunityToolkit.Mvvm  (c) .NET Foundation and Contributors
+    Microsoft.Extensions.DependencyInjection  (c) .NET Foundation and Contributors
+    Microsoft .NET Runtime e Windows Presentation Foundation (WPF)
+    (c) .NET Foundation and Contributors
+-------------------------------------------------------------------------------
+ Licenca: MIT License
+
+MIT License
+
+Copyright (c) .NET Foundation and Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===============================================================================
+ Fim dos avisos de terceiros.
+===============================================================================
